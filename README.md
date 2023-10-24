@@ -8,9 +8,13 @@ showcase my progress.
 
 
 Progress
-  Make a Index page (50%)
+
+  Make a Index page (done)
+  
   Make a 3 recipe pages
     1 Pie crust (done)
-    2 French toast (to do)
-    3 Mango Daiquiri (to do)
-  Publish page via Github
+    
+    2 French toast (done)
+    
+    3 Mango Daiquiri (done)
+  Publish page via Github (Keep this on ice for now)
