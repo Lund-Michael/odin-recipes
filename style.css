@@ -1,14 +1,66 @@
 *{
 	line-height: 1.5;
+	font-size: large;
 }
 
-body{
+html, body{
 	background-color: #96C9DC;
-  font-family: helvetica, Arial, sans-serif;
+    font-family: helvetica, Arial, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 100%;
+}
+
+img{
+	box-shadow: 0px 0px 10px black;
+}
+
+.content{
+	box-shadow: 0px 0px 15px black;
+	text-align: center;
+	background-color: #456990;
+	width: 70%;
+	margin-top: 0px;
+	margin: auto;
+	min-height: 100%;
+	
 }
 
 h1{
 	text-align:center;
-	font-size: xx-large;
-	color: hwb(358 46% 6%);
+	font-size: 50pt;
+	color: #EF767A;
+	text-shadow: 0px 0px 5px  black;
+	margin-top: 0px;
+	
+}
+
+h2{
+	font-size: 25pt;
+	color: #EF767A;
+	text-shadow: 0px 0px 5px  black;
+}
+
+
+a:link{
+	text-decoration:none;
+	color:#0F110C;
+	}
+	
+	a:visited{
+	color:#9C0D38;
+	}
+	
+	a:hover{
+	color:#EF767A;
+	}
+
+	
+.main li {
+	list-style: none;
+}
+
+.recipe{
+	text-align: left;
+	margin: 10px;
 }
