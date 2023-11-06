@@ -1,0 +1,14 @@
+*{
+	line-height: 1.5;
+}
+
+body{
+	background-color: #96C9DC;
+  font-family: helvetica, Arial, sans-serif;
+}
+
+h1{
+	text-align:center;
+	font-size: xx-large;
+	color: hwb(358 46% 6%);
+}
