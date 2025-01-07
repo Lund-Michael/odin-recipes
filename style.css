@@ -1,0 +1,37 @@
+/* -- Global Style -- */
+
+*{
+  font-family: Verdana, Tahoma, sans-serif;
+  color:#1d1919;
+  background-color: #d4d4ab;
+}
+h1, h2, h3, h4, h5 ,h6{
+  margin-left:5px;
+  font-family:'Times New Roman', Times, serif;
+  color:#1d1919;
+}
+/* Links */
+a:link{
+  text-decoration: none;
+}
+a:visited{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+  font-weight: bold;
+  color: #2b2929;
+}
+
+/* -- Recipe pages -- */
+img{
+  float: left;
+  padding-right: 5px;
+}
+.Description
+div{
+  float :right;
+}
+.Recipe{
+  float: left;
+}
