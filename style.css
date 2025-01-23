@@ -49,8 +49,6 @@ img{
 }
 
 .Description{
-  all
-  display: block;
   width: 400px;
   display: inline-block;
   vertical-align:top;
